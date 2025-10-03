@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Local files
+notes.json
+*.log
+
+# OS files
+.DS_Store
